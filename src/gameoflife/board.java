@@ -9,6 +9,8 @@ package gameoflife;
  *
  * @author Erik Bøhren
  */
+// teste push 
 public class board {
+    
     
 }
